@@ -1,0 +1,21 @@
+@-moz-document url("about:privatebrowsing") {
+
+    .info,
+    .search-inner-wrapper {
+        display: none !important;
+    }
+
+    html.private {
+        --in-content-page-background: none !important;
+    }
+
+    :root {
+        background: url("./Assets/userContent/PrivateBrowsing.png") no-repeat;
+        background-size: cover;
+    }
+
+    .logo {
+        background: none !important;
+        background: url("./Assets/userContent/FirefoxLogo.png") no-repeat !important;
+    }
+}

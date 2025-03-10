@@ -1,0 +1,32 @@
+menupopup:not(#ContentSelectDropdownPopup):not(.toolbar-menupopup):not(.toolbar-menupopup menupopup) {
+    --panel-padding: var(--panel-padding-block) 0 !important;
+    --panel-border-radius: 0 !important;
+    --panel-shadow: 4px 4px 2px -2px hsla(0, 0%, 0%, .4) !important;
+}
+
+menupopup>menu>menupopup {
+    margin-inline: calc(-2 * var(--panel-shadow-margin)) !important;
+}
+
+menupopup>menu,
+menupopup>menuitem {
+    padding-block: 2px !important;
+}
+
+menupopup menu:not([icon]):not(.menu-iconic),
+menupopup menuitem:not([checked="true"]):not([icon]):not(.menuitem-iconic) {
+    padding-inline-start: 36px !important;
+}
+
+menupopup menuseparator {
+    padding-inline: 4px !important;
+}
+
+#context-navigation>.menuitem-iconic>.menu-iconic-left>.menu-iconic-icon {
+    padding: 3px !important;
+}
+
+menupopup menu[disabled="true"],
+menupopup menuitem[disabled="true"] {
+    background: none !important;
+}
