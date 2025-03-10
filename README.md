@@ -12,6 +12,7 @@
 ---
 ### Screenshots
 ![image](https://github.com/user-attachments/assets/72a71c9c-d605-4bc0-a9ca-082445b5b0da)
-Caption: Standard Private Window
+#### Caption: Standard Private Window
+ 
 ![image](https://github.com/user-attachments/assets/fac263f4-3d45-4028-943c-5782085caab0)
-Caption: Inactive tab hover - white shadow
+#### Caption: Inactive tab hover - white shadow
