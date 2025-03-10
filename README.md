@@ -16,3 +16,7 @@
  
 ![image](https://github.com/user-attachments/assets/fac263f4-3d45-4028-943c-5782085caab0)
 #### Caption: Inactive tab hover - white shadow
+
+![image](https://github.com/user-attachments/assets/e9472e56-f3de-458b-950f-4810daa6c239)
+![image](https://github.com/user-attachments/assets/602a2102-449b-4cc4-8c21-05b7d16199bb)
+#### Caption: Findbar
